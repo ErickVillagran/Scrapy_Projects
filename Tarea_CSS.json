@@ -1,0 +1,1766 @@
+[
+{
+ "Link": "https://catalog.data.gov/dataset/u-s-hourly-precipitation-data",
+ "Body": {
+  "Title": [
+   [
+    "U.S. Hourly Precipitation Data"
+   ]
+  ],
+  "Paragraph": [
+   "Hourly Precipitation Data (HPD) is digital data set DSI-3240, archived at the National Climatic Data Center (NCDC). The primary source of data for this file is approximately 5,500 US National Weather Service (NWS), Federal Aviation Administration (FAA), and cooperative observer stations in the United States of America, Puerto Rico, the US Virgin Islands, and various Pacific Islands. The earliest data dates vary considerably by state and region: Maine, Pennsylvania, and Texas have data since 1900. The western Pacific region that includes Guam, American Samoa, Marshall Islands, Micronesia, and Palau have data since 1978. Other states and regions have earliest dates between those extremes. The latest data in all states and regions is from the present day. The major parameter in DSI-3240 is precipitation amounts, which are measurements of hourly or daily precipitation accumulation. Accumulation was for longer periods of time if for any reason the rain gauge was out of service or no observer was present. DSI 3240_01 contains data grouped by state; DSI 3240_02 contains data grouped by year.",
+   "This dataset contains historical hourly precipitation observations for...",
+   "Search for the dataset via a text-based interface.",
+   "Dynamic GIS mapping application to locate stations and data for selected...",
+   "Dataset files available for download via FTP.",
+   "ArcGIS Server REST API for the dataset.",
+   "Direct download link for KMZ file.",
+   "Documentation of the dataset including a data description, format layout and...",
+   "This sample data file shows how the data are formatted in CSV and is for...",
+   "This sample data file shows how the data are formatted in fixed-length ASCII...",
+   "Informational resources and data from the Hourly Precipitation dataset.",
+   "NCEI home page with information, data access and contact information.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "Instructions and examples for ISO keywords.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "Follow the link for more information about the related Hourly Precipitation...",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/yearly-statistical-beer-data-by-state-2007-2016",
+ "Body": {
+  "Title": [
+   [
+    "Yearly Statistical - Beer Data by State (2007-2016)"
+   ]
+  ],
+  "Paragraph": [
+   "Yearly statistical - beer data by state (2007-2016)",
+   "revised-aggr-data-beer-2007-2016.pdf",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/sba-public-datasets",
+ "Body": {
+  "Title": [
+   [
+    "SBA Public Datasets"
+   ]
+  ],
+  "Paragraph": [
+   "Provides a list of all the datasets available in the Public Data Inventory for the Small Business Administration.",
+   "data.json",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/zip-code-tabulation-areas-locale-assignments",
+ "Body": {
+  "Title": [
+   [
+    "Zip Code Tabulation Areas Locale Assignments"
+   ]
+  ],
+  "Paragraph": [
+   "The ZCTA locale file is a table of NCES locale assignments applied to the Zip Code Tabulation Areas (ZCTAs) included in the Census Bureau\u2019s TIGER/Line boundaries. It provides a way to assign NCES locale indicators to files that include a ZIP Code but do not include other street-level address information needed to make an assignment based on point location. ZCTAs are approximations of U.S. Postal Service (USPS) 5-digit ZIP Code service areas that the Census Bureau creates using census blocks to present statistical data from censuses and surveys. The ZCTA locale assignments are based on NCES locale boundaries and reflect the locale that accounts for the largest areal proportion of the ZCTA.",
+   "2014 ZCTA Locale Table Boundaries in DBF format.",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/allegheny-county-sheriff-sales",
+ "Body": {
+  "Title": [
+   [
+    "Allegheny County Sheriff Sales"
+   ]
+  ],
+  "Paragraph": [
+   "List of properties up for auction at a Sheriff Sale. Datasets labeled \"Current\" contain this month's postings, while those labeled \"Archive\" contain a running list of all postings uploaded to the WPRDC.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "sheriff-sales-data-dictionary.csv",
+   "sheriff-sales-data-dictionary.pdf",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/light-duty-automotive-technology-carbon-dioxide-emissions-and-fuel-economy-trends-data-5ff55",
+ "Body": {
+  "Title": [
+   [
+    "The EPA Automotive Trends Report: Greenhouse Gas Emissions, Fuel Economy, and Technology since 1975"
+   ]
+  ],
+  "Paragraph": [
+   "This annual report is part of the U.S. Environmental Protection Agency\u2019s (EPA) commitment to provide the public with information about new light-duty vehicle greenhouse gas (GHG) emissions, fuel economy, technology data, and auto manufacturers' performance in meeting the agency\u2019s GHG emissions standards. EPA has collected data on every new light-duty vehicle model sold in the United States since 1975, either from testing performed by EPA at the National Vehicle and Fuel Emissions Laboratory in Ann Arbor, Michigan, or directly from manufacturers using official EPA test procedures. These data are collected to support several important national programs, including EPA criteria pollutant and GHG standards, the U.S. Department of Transportation\u2019s National Highway Traffic Safety Administration (NHTSA) Corporate Average Fuel Economy (CAFE) standards, and vehicle Fuel Economy and Environment labels. The downloadable data are available in the report PDF or spreadsheet (XLS) formats.",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Our mission is to protect human health and the environment.",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/global-forecast-system-gfs-0-5-deg",
+ "Body": {
+  "Title": [
+   [
+    "Global Forecast System (GFS) [0.5 Deg.]"
+   ]
+  ],
+  "Paragraph": [
+   "The Global Forecast System (GFS) is a weather forecast model produced by the National Centers for Environmental Prediction (NCEP). Dozens of atmospheric and land-soil variables are available through this dataset, from temperatures, winds, and precipitation to soil moisture and atmospheric ozone concentration. The entire globe is covered by the GFS at a base horizontal resolution of 18 miles (28 kilometers) between grid points, which is used by the operational forecasters who predict weather out to 16 days in the future. Horizontal resolution drops to 44 miles (70 kilometers) between grid point for forecasts between one week and two weeks. The GFS model is a coupled model, composed of four separate models (an atmosphere model, an ocean model, a land/soil model, and a sea ice model), which work together to provide an accurate picture of weather conditions. Changes are regularly made to the GFS model to improve its performance and forecast accuracy. This dataset is run four times daily at 00z, 06z, 12z and 18z out to 192 hours with a 0.5 degree horizontal resolution and a 3 hour temporal resolution.",
+   "Dataset landing page with general information and access links for the dataset.",
+   "Dataset files available for download via HTTP.",
+   "Dataset files available for download via FTP.",
+   "Data and metadata access for the dataset using OPeNDAP, WMS, WCS, HTTP, and...",
+   "Web site providing overview and technical documentation for the GFS.",
+   "Web site providing overview and technical documentation for the GFS.",
+   "Web site providing description and access links for the GFS.",
+   "NCEI home page with information, data access and contact information.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/national-inventory-of-dams",
+ "Body": {
+  "Title": [
+   [
+    "National Inventory of Dams"
+   ]
+  ],
+  "Paragraph": [
+   "The National Inventory of Dams (NID) is a congressionally authorized database documenting dams in the United Staets and its territories. It is maintained and published by the US Army Corps of Engineers. It contains information about a dam's location, size, purpose, type, last inspection and regulatory facts. More information can be found at",
+   ".",
+   "",
+   "",
+   "\u00b7",
+   "",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/pittsburgh-neighborhoods-map",
+ "Body": {
+  "Title": [
+   [
+    "Pittsburgh Neighborhoods Map"
+   ]
+  ],
+  "Paragraph": [
+   "Allows users to look up City of Pittsburgh Neighborhoods",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/local-weather-archive",
+ "Body": {
+  "Title": [
+   [
+    "Local Weather Archive"
+   ]
+  ],
+  "Paragraph": [
+   "Pull weather data as collected at Raleigh-Durham International Airport by NOAA.This dataset contains Raleigh Durham International Airport\u00a0weather data pulled from the NOAA\u00a0web service described at:",
+   "have pulled this data and converted the data to commonly used units.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "<Nobody>",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/federal-student-loan-program-data",
+ "Body": {
+  "Title": [
+   [
+    "Federal Student Loan Program Data"
+   ]
+  ],
+  "Paragraph": [
+   "Provides recipient and disbursement information each quarter for the Direct Loan and Federal Family Education Loan Programs by postsecondary school.",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/allegheny-county-property-sale-transactions",
+ "Body": {
+  "Title": [
+   [
+    "Allegheny County Property Sale Transactions"
+   ]
+  ],
+  "Paragraph": [
+   "This dataset contains data on all Real Property parcels that have sold since 2013 in Allegheny County, PA.",
+   "Before doing any market analysis on property sales, check the sales validation codes. Many property \"sales\" are not considered a valid representation of the true market value of the property. For example, when multiple lots are together on one deed with one price they are generally coded as invalid (\"H\") because the sale price for each parcel ID number indicates the total price paid for a group of parcels, not just for one parcel. See the Sales Validation Codes Dictionary for a complete explanation of valid and invalid sale codes.",
+   "Sales Transactions Disclaimer: Sales information is provided from the Allegheny County Department of Administrative Services, Real Estate Division. Content and validation codes are subject to change. Please review the Data Dictionary for details on included fields before each use. Property owners are not required by law to record a deed at the time of sale. Consequently the assessment system may not contain a complete sales history for every property and every sale. You may do a deed search at",
+   "directly for the most updated information.\n   Note: Ordinance 3478-07 prohibits public access to search assessment records by owner name. It was signed by the Chief Executive in 2007.",
+   "",
+   "property-sale-transactions-data-dictionaryrev.pdf",
+   "property-sale-transaction-data-dictionary.csv",
+   "sales-validation-codes-dictionary.pdf",
+   "sales-validation-codes-dictionary.csv",
+   "home.aspx",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/noaa-next-generation-radar-nexrad-products",
+ "Body": {
+  "Title": [
+   [
+    "NOAA NEXt-Generation RADar (NEXRAD) Products"
+   ]
+  ],
+  "Paragraph": [
+   "This dataset consists of Level III weather radar products collected from Next-Generation Radar (NEXRAD) stations located in the contiguous United States, Alaska, Hawaii, U.S. territories and at military base sites. NEXRAD is a network of 160 high-resolution Doppler weather radars operated by the NOAA National Weather Service (NWS), the Federal Aviation Administration (FAA), and the U.S. Air Force (USAF). Doppler radars detect atmospheric precipitation and winds, which allow scientists to track and anticipate weather events, such as rain, ice pellets, snow, hail, and tornadoes, as well as some non-weather objects like birds and insects. NEXRAD stations use the Weather Surveillance Radar - 1988, Doppler (WSR-88D) system. This is a 10 cm wavelength (S-Band) radar that operates at a frequency between 2,700 and 3,000 MHz. The radar system operates in two basic modes: a slow-scanning Clear Air Mode (Mode B) for analyzing air movements when there is little or no precipitation activity in the area, and a Precipitation Mode (Mode A) with a faster scan for tracking active weather. The two modes employ nine Volume Coverage Patterns (VCPs) to adequately sample the atmosphere based on weather conditions. A VCP is a series of 360 degree sweeps of the antenna at pre-determined elevation angles and pulse repetition frequencies completed in a specified period of time. The radar scan times 4.5, 5, 6 or 10 minutes depending on the selected VCP. During 2008, the WSR-88D radars were upgraded to produce increased spatial resolution data, called Super Resolution. The earlier Legacy Resolution data provides radar reflectivity at 1.0 degree azimuthal by 1 km range gate resolution to a range of 460 km, and Doppler velocity and spectrum width at 1.0 degree azimuthal by 250 m range gate resolution to a range of 230 km. The upgraded Super Resolution data provides radar reflectivity at 0.5 degree azimuthal by 250 m range gate resolution to a range of 460 km, and Doppler velocity and spectrum width at 0.5 degree azimuthal by 250 m range gate resolution to a range of 300 km. Super resolution makes a compromise of slightly decreased noise reduction for a large gain in resolution. In 2010, the deployment of the Dual Polarization (Dual Pol) capability to NEXRAD sites began with the first operational Dual Pol radar in May 2011. Dual Pol radar capability adds vertical polarization to the previous horizontal radar waves, in order to more accurately discern the return signal. This allows the radar to better distinguish between types of precipitation (e.g., rain, hail and snow), improves rainfall estimates, improves data retrieval in mountainous terrain, and aids in removal of non-weather artifacts. The NEXRAD products are divided in two data processing levels. The lower Level II data are base products at original resolution. Level II data are recorded at all NWS and most USAF and FAA WSR-88D sites. From the Level II quantities, computer processing generates numerous meteorological analysis Level III products. The Level III data consists of reduced resolution, low-bandwidth, base products as well as many derived, post-processed products. Level III products are recorded at most U.S. sites, though non-US sites do not have Level III products. There are over 40 Level III products available from the NCDC. General products for Level III include the base and composite reflectivity, storm relative velocity, vertical integrated liquid, echo tops and VAD wind profile. Precipitation products for Level III include estimated ground accumulated rainfall amounts for one and three hour periods, storm totals, and digital arrays. Estimates are based on reflectivity to rainfall rate (Z-R) relationships. Overlay products for Level III are alphanumeric data that give detailed information on certain parameters for an identified storm cell. These include storm structure, hail index, mesocyclone identification, tornadic vortex signature, and storm tracking information. Radar messages for Level III are sent by the radar site to users in order to know more about the radar status and special product data. NEXRAD data are provided to the NOAA National Climatic Data Center for archiving and dissemination to users. Data coverage varies by station and ranges from May 1992 to 1 day from present. Most stations began observing in the mid-1990s, and most period of records are continuous.",
+   "Dataset landing page with general information and access links for the dataset.",
+   "Amazon documentation for accessing the complete NEXRAD Level II archive on...",
+   "NEXRAD Level II archive data is hosted in the \"noaa-nexrad-level2\" Amazon S3...",
+   "Browse the contents of the NEXRAD Level II archive via the AWS JavaScript S3...",
+   "Service to search space and time for NEXRAD level II data of interest. This...",
+   "Search for data and metadata by station ID, location, and date range via a...",
+   "Search for data and metadata by station ID, location, and date range via a...",
+   "Dynamic GIS mapping application to locate stations and data for selected...",
+   "Search for radar data and estimated VCP mode by station ID, location, and...",
+   "ArcGIS Server REST API for the dataset.",
+   "Web Map Service for the dataset.",
+   "Web Feature Service for the dataset.",
+   "Direct download link for KMZ file.",
+   "Information on free visualization, analysis, and decoding tools for the radar...",
+   "Level-III NEXRAD data are 40+ products generated from NEXRAD Level-II data...",
+   "Informational resources for NEXRAD Radar Data.",
+   "NCEI home page with information, data access and contact information.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The Interface Control Documents (ICDs) describe the data format specification...",
+   "Document includes WSR-88D system concepts, terminology and acronyms.",
+   "Document provides a background in doppler radar meteorology.",
+   "Document provides a full description of the WSR-88D meteorological and...",
+   "Document provides an overview of unit operations and functional flow and...",
+   "AMS Journal Publication.",
+   "AMS Journal Publication.",
+   "AMS Journal Publication.",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/water-column-sonar-data-collection",
+ "Body": {
+  "Title": [
+   [
+    "Water Column Sonar Data Collection"
+   ]
+  ],
+  "Paragraph": [
+   "The collection and analysis of water column sonar data is a relatively new avenue of research into the marine environment. Primary uses include assessing biological abundance, species identification,and habitat characterization. It is also useful for evaluating underwater gas seeps, characterizing the seafloor and bathymetry. The goals of this collection are to archive water column sonar data collected on NOAA, academic and international fleets, and to make the data available to researchers and the public around the world.",
+   "Interactive map viewer to allow discovery and access to water column sonar data",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015",
+ "Body": {
+  "Title": [
+   [
+    "Accidental Drug Related Deaths 2012-2018"
+   ]
+  ],
+  "Paragraph": [
+   "A listing of each accidental death associated with drug overdose in Connecticut from 2012 to 2018. A \"Y\" value under the different substance columns indicates that particular substance was detected.",
+   "Data are derived from an investigation by the Office of the Chief Medical Examiner which includes the toxicity report, death certificate, as well as a scene investigation.",
+   "The \u201cMorphine (Not Heroin)\u201d values are related to the differences between how Morphine and Heroin are metabolized and therefor detected in the toxicity results. Heroin metabolizes to 6-MAM which then metabolizes to morphine.  6-MAM is unique to heroin, and has a short half-life (as does heroin itself). Thus, in some heroin deaths, the toxicity results will not indicate whether the morphine is from heroin or prescription morphine. In these cases the Medical Examiner may be able to determine the cause based on the scene investigation (such as  finding heroin needles). If they find prescription morphine at the scene it is certified as \u201cMorphine (not heroin).\u201d  Therefor, the Cause of Death may indicate Morphine, but the Heroin or Morphine (Not Heroin) may not be indicated.",
+   "\u201cAny Opioid\u201d \u2013 If the Medical Examiner cannot conclude whether it\u2019s RX Morphine or heroin based morphine in the toxicity results, that column may be checked",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "Tyler Kleykamp"
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/dynamic-small-business-search-dsbs-025a1",
+ "Body": {
+  "Title": [
+   [
+    "Dynamic Small Business Search (DSBS)"
+   ]
+  ],
+  "Paragraph": [
+   "The Small Business Administration maintains the Dynamic Small Business Search (DSBS) database. As a small business registers in the System for Award Management, there is an opportunity to fill out the small business profile. The information provided populates DSBS. DSBS is another tool contracting officers use to identify potential small business contractors for upcoming contracting opportunities. Small businesses can also use DSBS to identify other small businesses for teaming and joint venturing.",
+   "dsp_dsbs.cfm",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/global-surface-summary-of-the-day-gsod",
+ "Body": {
+  "Title": [
+   [
+    "Global Surface Summary of the Day - GSOD"
+   ]
+  ],
+  "Paragraph": [
+   "Global Surface Summary of the Day is derived from The Integrated Surface Hourly (ISH) dataset. The ISH dataset includes global data obtained from the USAF Climatology Center, located in the Federal Climate Complex with NCDC. The latest daily summary data are normally available 1-2 days after the date-time of the observations used in the daily summaries. The online data files begin with 1929 and are at the time of this writing at the Version 8 software level. Over 9000 stations' data are typically available. The daily elements included in the dataset (as available from each station) are: Mean temperature (.1 Fahrenheit) Mean dew point (.1 Fahrenheit) Mean sea level pressure (.1 mb) Mean station pressure (.1 mb) Mean visibility (.1 miles) Mean wind speed (.1 knots) Maximum sustained wind speed (.1 knots) Maximum wind gust (.1 knots) Maximum temperature (.1 Fahrenheit) Minimum temperature (.1 Fahrenheit) Precipitation amount (.01 inches) Snow depth (.1 inches) Indicator for occurrence of: Fog, Rain or Drizzle, Snow or Ice Pellets, Hail, Thunder, Tornado/Funnel Cloud Global summary of day data for 18 surface meteorological elements are derived from the synoptic/hourly observations contained in USAF DATSAV3 Surface data and Federal Climate Complex Integrated Surface Hourly (ISH). Historical data are generally available for 1929 to the present, with data from 1973 to the present being the most complete. For some periods, one or more countries' data may not be available due to data restrictions or communications problems. In deriving the summary of day data, a minimum of 4 observations for the day must be present (allows for stations which report 4 synoptic observations/day). Since the data are converted to constant units (e.g, knots), slight rounding error from the originally reported values may occur (e.g, 9.9 instead of 10.0). The mean daily values described below are based on the hours of operation for the station. For some stations/countries, the visibility will sometimes 'cluster' around a value (such as 10 miles) due to the practice of not reporting visibilities greater than certain distances. The daily extremes and totals--maximum wind gust, precipitation amount, and snow depth--will only appear if the station reports the data sufficiently to provide a valid value. Therefore, these three elements will appear less frequently than other values. Also, these elements are derived from the stations' reports during the day, and may comprise a 24-hour period which includes a portion of the previous day. The data are reported and summarized based on Greenwich Mean Time (GMT, 0000Z - 2359Z) since the original synoptic/hourly data are reported and based on GMT.",
+   "Global summary of the day is comprised of a dozen daily averages computed...",
+   "Dataset files available for download via FTP.",
+   "Search for the dataset via a text-based interface.",
+   "Dynamic GIS mapping application to locate stations and data for selected...",
+   "ArcGIS Server REST API for the dataset.",
+   "Direct download link for KMZ file.",
+   "Documentation of the dataset including a data description, format layout and...",
+   "This sample data file shows how the data are formatted and is for example...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "Instructions and examples for ISO keywords.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/ncep-north-american-regional-reanalysis-narr-for-1979-to-present",
+ "Body": {
+  "Title": [
+   [
+    "NCEP North American Regional Reanalysis (NARR), for 1979 to Present"
+   ]
+  ],
+  "Paragraph": [
+   "The North America Regional Reanalysis (NARR) Project is a reanalysis of historical observations using a 32-km version of the National Centers for Environmental Prediction (NCEP) 1993 operational ETA model and ETA data assimilation system (EDAS). The objective is to create a long-term set of consistent climate data on a regional scale for the North American domain. The domain of analyses includes North and Central America as well as small parts of the United Kingdom, Eastern Asia, South America, and areas of the Pacific and Atlantic Oceans. The period of the reanalyses is from October 1978 to the present and analyses were made 8 times daily (3 hour intervals). Horizontal boundary conditions are derived from the NCEP/DOE Global Reanalysis. Advantages over the widely used NCEP/NCAR Reanalysis (180 km) are its higher spatial and temporal resolutions (32 km grid, 45 vertical layers, every three hours) and better treatment of the land surface. This is achieved through the use of a better land-surface model (Noah LSM), the assimilation of more observational data (precipitation, upper air and surface winds), and through a better representation of the terrain (heights, vegetation, soil type). This data set contains \"conventional\" atmospheric analyses as well as model-derived fields that contain estimates of subsurface, surface, and radiative properties. This data set is encoded in WMO GRIB format version 1 using the NCEP GRIB table 131. The model used a native, \"E-grid\" for its calculations, however data were interpolated to a Lambert Conformal Conic projection, also known as NAM 221 AWIPS Grid - High Resolution North American Master Grid (32-km Resolution). All vector components are earth relative rather than grids relative which is the convention for operational NCEP model. The list of fields produced by the NARR ETA model differ from the operational ETA model. NARR data files that are compatible with the Grid Analysis and Display System (GrADS) are available.",
+   "Data and metadata access for the dataset using OPeNDAP, WMS, WCS, HTTP, and...",
+   "NARR Monthly Means dataset files available for download via FTP.",
+   "NARR-A and NARR-B dataset files available for download via FTP.",
+   "NARR Monthly Means dataset files available for download via HTTP.",
+   "NARR-A and NARR-B dataset files available for download via HTTP.",
+   "Information and documentation on NARR",
+   "NCEI home page with information, data access and contact information.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "PDF document",
+   "PDF document",
+   "PDF Document",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/ncdc-storm-events-database",
+ "Body": {
+  "Title": [
+   [
+    "NCDC Storm Events Database"
+   ]
+  ],
+  "Paragraph": [
+   "Storm Data is provided by the National Weather Service (NWS) and contain statistics on personal injuries and damage estimates. Storm Data covers the United States of America. The data began as early as 1950 through to the present, updated monthly with up to a 120 day delay possible. NCDC Storm Event database allows users to find various types of storms recorded by county, or use other selection criteria as desired. The data contain a chronological listing, by state, of hurricanes, tornadoes, thunderstorms, hail, floods, drought conditions, lightning, high winds, snow, temperature extremes and other weather phenomena.",
+   "Dataset landing page with general information and access links for the dataset.",
+   "Search the NCEI Storm Events Database to find various types of storms...",
+   "Storm Events Database Frequently Asked Questions",
+   "Where you can download the Storm Events Database in various ways",
+   "Where you can search the Storm Events Database by State, then date, event...",
+   "NCEI home page with information, data access and contact information.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "pd01016005curr.pdf",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/unspsc-codes",
+ "Body": {
+  "Title": [
+   [
+    "UNSPSC Codes"
+   ]
+  ],
+  "Paragraph": [
+   "The United Nations Standard Products and Services Code (UNSPSC) is a hierarchical convention that is used to classify all products and services.",
+   "The United Nations Standard Products and Services Code (UNSPSC) is a...",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/traffic-data",
+ "Body": {
+  "Title": [
+   [
+    "Traffic Data"
+   ]
+  ],
+  "Paragraph": [
+   "This data set contains information related to  from counters of Traffic Counts and Accidents. Please contact The Department of Planning and Transportation if you have any questions:",
+   ",\n   planning@bloomington.in.gov ,\n   401 N Morton St, Suite 130\n   Bloomington, IN 47404 ,\n   Phone: (812) 349-3423, Fax: (812) 349-3520",
+   "This is a  PDF map showing counter locations used in the 2017 Pedestrian and...",
+   "This set of raw data contains crash reports from Monroe County from 2003 to...",
+   "This set of raw data contains information obtained from counters of Traffic...",
+   "This set of raw data contains information obtained from counters of...",
+   "This set of raw data contains information obtained from counters of Traffic...",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/parcels-and-land-ownership-montana-cadastral-framework",
+ "Body": {
+  "Title": [
+   [
+    "Parcels and Land Ownership - Montana Cadastral Framework"
+   ]
+  ],
+  "Paragraph": [
+   "Test The Montana Cadastral Database is comprised of taxable parcels (fee land) and public land (exempt property). It is not broken down into individual lots, for instance lots 4 & 5, Forest Grove Subdivision may comprise one taxable parcel and the Lot line between lots 4 & 5 is not contained in this database. The database encompasses all the area within Montana. At this time, the Data is in an ArcSde/Oracle geodatabase. Each county is available for download as a single ArcGIS personal geodatabase or shapefile. The data is maintained by the MT Department of Revenue (DOR) or in cases of Silver Bow, Cascade, Missoula, Lake, Flathead and Yellowstone counties that are maintained by the individual counties. The data is integrated by Montana State Library Geographic Information Services staff. Each parcel contains an attribute called ParcelID (geocode) that is the parcel identifier. It relates to the geocode in the DOR's Orion database (Computer Assisted Mass Appraisal data - CAMA). Most of the ancillary attribute information is held in this database. Information such as owner name, legal description, and appraised value as well as structural and agricultural data are available within CAMA. SQL Server Express 2000 R2 database files of individual county CAMA data are available for download at the project website listed above. In addition, a SQL Server Express database of selected attributes is available for the entire state. Parcel data is built upon the USDI Bureau of Land Management's (BLM) Geographic Coordinate Database (GCDB). The GCDB is a complex measurement management system that uses a least squares adjustment of existing survey data to come up with a digital representation of the Public Land Survey System (PLSS). For more information on GCDB you should proceed to the Montana/North Dakota BLM website at",
+   ". Accuracy varies between townships and it is important to note that the accuracy of the parcel data can't be any more accurate than the GCDB.",
+   "35524afc-669b-4614-9f44-43506ae21a1d.xml",
+   "",
+   "",
+   "\u00b7",
+   "",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Records from State organizations in the GIS Inventory | National States' Geographic Information Council (NSGIC).",
+   "",
+   "Records from State organizations in the GIS Inventory | National States' Geographic Information Council (NSGIC).",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/oil-and-gas-well-map",
+ "Body": {
+  "Title": [
+   [
+    "Oil and Gas Well Map"
+   ]
+  ],
+  "Paragraph": [
+   "Displays location of oil and gas wells and related information, allows data download.\n   Constraints:\n   Not to be used for navigation, for informational purposes only. See full disclaimer for more information.",
+   "Wells, fields and other information",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "The North Dakota GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "The North Dakota GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/stolen-gun-data",
+ "Body": {
+  "Title": [
+   [
+    "Stolen Gun Data"
+   ]
+  ],
+  "Paragraph": [
+   "This set raw of data contains information from Bloomington Police Department regarding guns reported stolen.",
+   "Key code for Race:",
+   "A- Asian/Pacific Island, Non-Hispanic\n   B- African American, Non-Hispanic\n   I- Indian/Alaskan Native, Non-Hispanic K- African American, Hispanic\n   L- Caucasian, Hispanic N- Indian/Alaskan Native, Hispanic\n   P- Asian/Pacific Island, Hispanic\n   U- Unknown\n   W- Caucasian, Non-Hispanic\n   Key Code for Reading Districts:",
+   "Example: LB519",
+   "A map of the five districts can be located on Raidsonline.com, under the tab labeled \u2018Agency Layers\u2019.",
+   "Disclaimer: The Bloomington Police Department takes great effort in making stolen gun data as accurate as possible, but there is no avoiding the introduction of errors in this process, which relies on data that cannot always be verified. Information contained in this dataset may change over a period of time. The Bloomington Police Department is not responsible for any error or omission from this data, or for the use or interpretation of the results of any research conducted.",
+   "This data set contains information regarding guns that have been reported...",
+   "This data set contains information regarding guns that have been reported...",
+   "This data set contains information regarding guns that have been reported...",
+   "This data set contains information regarding guns that have been reported...",
+   "This data set contains information regarding guns that have been reported...",
+   "This data set contains information regarding guns that have been reported...",
+   "This data set contains information regarding guns that have been reported...",
+   "This data set contains information regarding guns that have been reported...",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/allegheny-county-property-assessments",
+ "Body": {
+  "Title": [
+   [
+    "Allegheny County Property Assessments"
+   ]
+  ],
+  "Paragraph": [
+   "Real Property parcel characteristics for Allegheny County, PA. Includes information pertaining to land, values, sales, abatements, and building characteristics (if residential) by parcel. \n   Disclaimer:\n   Parcel information is provided from the Office of Property Assessments in Allegheny County. Content and availability are subject to change. Please review the Data Dictionary for details on included fields before each use.\n   Property characteristics and values change due to a variety of factors such as court rulings, municipality permit processing and subdivision plans.  Consequently the assessment system parcel data is continually changing. \n   Please take the dynamic nature of this information into consideration before using it.\n   Excludes name and contact information for property owners,\n   as required by Ordinance 3478-07.",
+   "",
+   "",
+   "assessments.csv",
+   "",
+   "property-assessments-data-dictionary.csv",
+   "property-assessment-data-dictionaryrev.pdf",
+   "",
+   "Search.aspx",
+   "",
+   "alleghenycountypropertyassessmentdatauserguide-4.pdf",
+   "",
+   "2017-assessment-files-2.zip",
+   "2016-assessments.zip",
+   "assessments.csv",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/general-schedule-and-locality-pay",
+ "Body": {
+  "Title": [
+   [
+    "General Schedule and Locality Pay"
+   ]
+  ],
+  "Paragraph": [
+   "General Schedule (GS) and Locality Pay tables (current and past years)",
+   "This dataset is a collection of other datasets.",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/diversity-index",
+ "Body": {
+  "Title": [
+   [
+    "Diversity Index"
+   ]
+  ],
+  "Paragraph": [
+   "This map service summarizes racial and ethnic diversity in the United States in 2012.The Diversity Index shows the likelihood that two persons chosen at random from the same area, belong to different race or ethnic groups. The index ranges from 0 (no diversity) to 100 (complete diversity). Diversity in the U.S. population is increasing. The diversity score for the entire United States in 2012 is 61.The data shown is from Esri's 2012 Updated Demographics. The map adds increasing level of detail as you zoom in, from state, to county, to ZIP Code, to tract, to block group data. This map shows Esri's 2012 estimates using Census 2010 geographies.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "The purpose of Chapel Hill Open Data is to increase transparency and facilitate access to information. A Chapel Hill Public Library service.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "<Nobody>",
+   "The purpose of Chapel Hill Open Data is to increase transparency and facilitate access to information. A Chapel Hill Public Library service.",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/allegheny-county-certified-mwdbe-businesses-2016",
+ "Body": {
+  "Title": [
+   [
+    "Allegheny County Certified MWDBE Businesses"
+   ]
+  ],
+  "Paragraph": [
+   "According to the Federal Department of Transportation, Disadvantaged Business Enterprises (DBE) are for-profit small business concerns where socially and economically disadvantaged individuals own at least a 51% interest and control management and daily business operations. To encourage participation in government contracting, these businesses can be eligible for contract set-asides and help organizations meet participation goals.To participate in these programs, a small business owned and controlled by socially and economically disadvantaged individuals must receive DBE certification from the relevant state\u2013 generally through the state Uniform Certification Program (UCP).The Pennsylvania Unified Certification Program (PA UCP) (dotsbe.pa.gov) is designed as \"one-stop shopping\" for firms seeking certification as a DBE or an Airport Concession Disadvantaged Business Enterprise (ACDBE).  The PA UCP is established in accordance with 49 CFR Part 26 and 49 CFR Part 23 (More information can be found at www.ecfr.gov). Allegheny County is a certifying participant in the PA UCP.  Firms wishing to be certified can do so at no cost through the M/W/DBE (Minority, Women, and Disadvantaged Business Enterprise) Department. This dataset contains all the firms currently certified by Allegheny County M/W/DBE. It does not necessarily include all certified businesses in Allegheny County. A complete list of firms certified by the PA UCP is available at dotsbe.pa.gov.",
+   "2017alleghenycountypaucp.csv",
+   "mwdbe-data-dictionary.pdf",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/median-household-income",
+ "Body": {
+  "Title": [
+   [
+    "Median Household Income"
+   ]
+  ],
+  "Paragraph": [
+   "Increase the state median household income from $45,690 in 2013 to $51,424 by 2017.",
+   "Increase the state median household income from $45,690 in 2013 to $51,424 by...",
+   "Increase the state median household income from $45,690 in 2013 to $51,424 by...",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/srtm15-plus-data-fusion-of-shuttle-radar-topography-mission-srtm-land-topography-with-measured-",
+ "Body": {
+  "Title": [
+   [
+    "SRTM15_PLUS: Data fusion of Shuttle Radar Topography Mission (SRTM) land topography with measured and estimated seafloor topography (NCEI Accession 0150537)"
+   ]
+  ],
+  "Paragraph": [
+   "To provide an improved mapping of the seafloor fabric globally, we have used available sounding data along with an improved global marine gravity model to develop at grid at 15 arcsecond resolution (~500 m). Land elevations are based on the best available data from SRTM, ASTER digital elevation models while the ice topography of Greenland and Antarctica is based on CryoSat-2 and IceSat. Ocean bathymetry is based on bathymetric predictions from the latest global gravity model from CryoSat-2 and Jason-1 along with 494 million carefully edited depth soundings at 15 arcsecond resolution. Bathymetry of the Arctic seafloor is based on the IBCAO grid with improved resolution in areas of multibeam coverage. We have used the bathymetry grid along with the improved gravity to construct a global map of abyssal hill amplitude and orientations and compare the orientations with predictions from seafloor age gradient analysis. Areas of disagreement reveal propagating rifts, microplates, and tectonic reorganizations. This SRTM15_PLUS provides the foundational bathymetry layer for Google Earth and is freely available at our ftp site (topex.ucsd.edu).",
+   "Navigate directly to the URL for a descriptive web page with download links.",
+   "Navigate directly to the URL for a descriptive web page with download links.",
+   "Navigate directly to the URL for data access and direct download.",
+   "These data are available through the File Transfer Protocol (FTP). You may...",
+   "Main NCEI website providing links to access data and data services.",
+   "Institution web page",
+   "Institution web page",
+   "Main NCEI website providing links to access data and data services.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/civil-rights-data-collection-2013-14",
+ "Body": {
+  "Title": [
+   [
+    "Civil Rights Data Collection, 2013-14"
+   ]
+  ],
+  "Paragraph": [
+   "The Civil Rights Data Collection, 2013-14 (CRDC 2013-14) is part of the Civil Rights Data Collection (CRDC) program; program data are available beginning with the 2000 collection at . CRDC 2013-14 is a cross-sectional survey that collects data on key education and civil rights issues in the nation's public schools, which include student enrollment and educational programs and services, disaggregated by race/ethnicity, sex, limited English proficiency, and disability. LEAs submit administrative records about schools in the district. CRDC 2013-14 is a universe survey. Key statistics produced from CRDC 2013-14 can provide information about critical civil rights issues as well as contextual information on the state of civil rights in the nation, including enrollment demographics, advanced placement, school discipline, and special education services.",
+   "View and compare data across multiple schools and districts",
+   "View and compare data across multiple schools and districts",
+   "Find school- or district-level summaries; access all data for a single school...",
+   "Download the entire 2013-14 Civil Rights Data Collection data file via one...",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/boundaries-neighborhoods",
+ "Body": {
+  "Title": [
+   [
+    "Boundaries - Neighborhoods"
+   ]
+  ],
+  "Paragraph": [
+   "Neighborhood boundaries in Chicago, as developed by the Office of Tourism. These boundaries are approximate and names are not official. The data can be viewed on the Chicago Data Portal with a web browser. However, to view or use the files outside of a web browser, you will need to use compression software and special GIS software, such as ESRI ArcGIS (shapefile) or Google Earth (KML or KMZ), is required.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/lidar-data-download",
+ "Body": {
+  "Title": [
+   [
+    "LiDAR Data Download"
+   ]
+  ],
+  "Paragraph": [
+   "LiDAR elevation data that can be downloaded by selections of tiles using individual, box graphic, polygon graphic, or by GIS polygon features.\n   Constraints:\n   Not to be used for navigation, for informational purposes only. See full disclaimer for more information.",
+   "Download LiDAR in .las, .asc, .img",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "The North Dakota GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "The North Dakota GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/integrated-surface-global-hourly-data",
+ "Body": {
+  "Title": [
+   [
+    "Integrated Surface Dataset (Global)"
+   ]
+  ],
+  "Paragraph": [
+   "The Integrated Surface (ISD) Dataset (ISD) is composed of worldwide surface weather observations from over 35,000 stations, though the best spatial coverage is evident in North America, Europe, Australia, and parts of Asia. Parameters included are: air quality, atmospheric pressure, atmospheric temperature/dew point, atmospheric winds, clouds, precipitation, ocean waves, tides and more. ISD refers to the data contained within the digital database as well as the format in which the hourly, synoptic (3-hourly), and daily weather observations are stored. The format conforms to Federal Information Processing Standards (FIPS). ISD provides hourly data that can be used in a wide range of climatological applications. For some stations, data may go as far back as 1901, though most data show a substantial increase in volume in the 1940s and again in the early 1970s. Currently, there are over 14,000 \"active\" stations updated daily in the database.",
+   "For user convenience, a subset of just the hourly data is available to users for download. It is referred to as Integrated Surface Global Hourly data, see associated download links for access to this subset.",
+   "Dataset landing page with general information and access links for the dataset.",
+   "Direct download for the Integrated Surface Global Hourly (subset) dataset...",
+   "Search for the dataset via a text-based interface.",
+   "Dynamic GIS mapping application to locate stations and data for selected...",
+   "Direct download link for KMZ file.",
+   "Documentation for the full dataset format including a data description, list...",
+   "Documentation for the abbreviated dataset format including a data...",
+   "This sample data file shows how the data are formatted as a webform and is...",
+   "This sample data file shows how the data are formatted by station ID and is...",
+   "Project page with dataset information.",
+   "NCEI home page with information, data access and contact information.",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "The information provided on this page seeks to define how the GCMD Keywords...",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/sat-college-board-2010-school-level-results-5c6d6",
+ "Body": {
+  "Title": [
+   [
+    "SAT (College Board) 2010 School Level Results"
+   ]
+  ],
+  "Paragraph": [
+   "New York City school level College Board SAT results for the graduating seniors of 2010.  Records contain 2010 College-bound seniors mean SAT scores.",
+   "Records with 5 or fewer students are suppressed (marked \u2018s\u2019).",
+   "College-bound seniors are those students that complete the SAT Questionnaire when they register for the SAT and identify that they will graduate from high school in a specific year. For example, the 2010 college-bound seniors are those students that self-reported they would graduate in 2010. Students are not required to complete the SAT Questionnaire in order to register for the SAT. Students who do not indicate which year they will graduate from high school will not be included in any college-bound senior report.",
+   "",
+   "Students are linked to schools by identifying which school they attend when registering for a College Board exam. A student is only included in a school\u2019s report if he/she self-reports being enrolled at that school.",
+   "Data collected and processed by the College Board.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "NYC OpenData",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/school-survey-on-crime-and-safety-2016",
+ "Body": {
+  "Title": [
+   [
+    "School Survey on Crime and Safety, 2016"
+   ]
+  ],
+  "Paragraph": [
+   "The 2016 School Survey on Crime and Safety (SSOCS:2016) is a data collection that is part of the School Survey on Crime and Safety program; program data are available since 2000 at . SSOCS:2016 (",
+   ") is a cross-sectional survey of the nation's public schools designed to provide estimates of school crime, discipline, disorder, programs and policies. Regular public schools were sampled. The data collection was conducted using a mail questionnaire with telephone follow-up. The data collection\u2019s response rate was 62.9 percent. Key statistics produced from SSOCS:2016 include the frequency and types of disciplinary actions taken for select offenses; perceptions of other disciplinary problems, such as bullying, verbal abuse and disorder in the classroom; the presence and role of school security staff; parent and community involvement; staff training; mental health services available to students; and school policies and programs concerning crime and safety.",
+   "Restricted-use data file for the 2016 School Survey on Crime and Safety",
+   "2015-16 School Survey on Crime and Safety: Public-Use Data Files and Codebook",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/pittsburgh-city-council-district-map",
+ "Body": {
+  "Title": [
+   [
+    "Pittsburgh City Council District Map"
+   ]
+  ],
+  "Paragraph": [
+   "Boundaries for Pittsburgh City Council",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/building-footprint-gis-data",
+ "Body": {
+  "Title": [
+   [
+    "Building Footprint GIS Data"
+   ]
+  ],
+  "Paragraph": [
+   "Building Footprint lines exported from the CIty's GIS. See summary description (txt) file for information about intended use, projection, currency, attributes, etc.",
+   "This map data layer represents the building footprint line work for the City of Bloomington, Indiana. It was created and updated from aerial photography. Updates are made for significant structures as needed from digitized development plan approvals until the next aerial flyover. It contains building structures including mobile homes, garages, canopies, tanks and silos and known underground building features.",
+   "Preview image in png format of Building Footprint GIS Data outlines",
+   "Summary description (metadata) of Building Footprint GIS Data contents. See...",
+   "Building Footprint GIS Data in Esri Shapefile format. This data set is...",
+   "Building Footprint GIS Data in kml format",
+   "Building Footprint GIS Data in geojson format",
+   "Building Footprint GIS Data in DXF format",
+   "Building Footprint GIS Data in postscript format",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/internet-weather-source",
+ "Body": {
+  "Title": [
+   [
+    "Internet Weather Source"
+   ]
+  ],
+  "Paragraph": [
+   "The National Weather Service (NWS) National Telecommunications Gateway provides  weather, hydrologic, and climate forecasts and warnings for the United States, its territories, adjacent waters and ocean areas, for the protection of life and property and the enhancement of the national economy. NWS data and products form a national information database and infrastructure which can be used by other governmental agencies, the private sector, the public, and the global community.",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/trauma-center-locations",
+ "Body": {
+  "Title": [
+   [
+    "Trauma Center Locations"
+   ]
+  ],
+  "Paragraph": [
+   "A trauma center is a facility that has made a commitment to serve the trauma patient, has met the standards of the trauma system, and has obtained designation as a trauma center.\n   Constraints:\n   Not to be used for navigation, for informational purposes only. See full disclaimer for more information.",
+   "Download data in the format and coordinate system of your choosing",
+   "Esri REST with links to JSON, WMS, WFS, KML",
+   "Tabular data of trauma centers in North Dakota",
+   "ISO 19139 metadata",
+   "ISO 19139 metadata",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "The North Dakota GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "The North Dakota GIS Hub is the state source for GIS - data, services, and information.  More information can be found at www.nd.gov/gis.",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/allegheny-county-dog-licenses",
+ "Body": {
+  "Title": [
+   [
+    "Allegheny County Dog Licenses"
+   ]
+  ],
+  "Paragraph": [
+   "A list of dog license dates, dog breeds, and dog name by zip code. Currently this dataset does not include City of Pittsburgh dogs.",
+   "2099.csv",
+   "2018.csv",
+   "2017.csv",
+   "2016.csv",
+   "2015.csv",
+   "2014.csv",
+   "2013.csv",
+   "2012.csv",
+   "2011.csv",
+   "2010.csv",
+   "2009.csv",
+   "2008.csv",
+   "2007.csv",
+   "default.aspx",
+   "doglicensedatadictionary.csv",
+   "dog-data-dictionary.pdf",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Allegheny County (Pennsylvania) and the City of Pittsburgh both publish their data through the Western Pennsylvania Regional Data Center. The Western Pennsylvania Regional Data...",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/2011-national-assessment-of-educational-progress",
+ "Body": {
+  "Title": [
+   [
+    "National Assessment of Educational Progress, 2011"
+   ]
+  ],
+  "Paragraph": [
+   "The National Assessment of Educational Progress, 2011 (NAEP 2011), is a study that is part of the National Assessment of Educational Progress (NAEP) program; program data available since 1971 at . NAEP 2011 (",
+   ") is a cross-sectional survey that assesses what America's students know and can do in various subject areas. The study was conducted using computer-based assessments of students. Students in grades 4, 8, and 12 were sampled. NAEP 2011 assessments consist of national and state assessments in mathematics, reading, and writing. The study's response rates were between 87 and 98 percent. Key statistics produced from NAEP 2011 are results on subject-matter achievement, instructional experiences, and school environment for populations of students (e.g., all fourth-graders) and groups within those populations (e.g. female students, Hispanic students).",
+   "2011 National Assessment of Educational Progress data available through the...",
+   "Restricted-use data file for Grades 4 and 8 mathematics assessments from the...",
+   "Restricted-use data file for Grades 4, and 8 reading assessments from the...",
+   "Restricted-use data file for Grade 8 science assessments from the 2011...",
+   "Restricted-use data file for Grade 8, and 12 writing assessments from the...",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/social-media-presence",
+ "Body": {
+  "Title": [
+   [
+    "Social Media Presence"
+   ]
+  ],
+  "Paragraph": [
+   "List of the social media outlets of the U.S. Office of Personnel Management (OPM)",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/water-quality-meteorological-and-nutrient-data-collected-by-the-the-national-estuarine-research8fc7d",
+ "Body": {
+  "Title": [
+   [
+    "Water quality, meteorological, and nutrient data collected by the the National Estuarine Research Reserve System's System-wide Monitoring Program (NERRS SWMP) from January 1, 1995 to August 1, 2011 (NODC Accession 0052765)"
+   ]
+  ],
+  "Paragraph": [
+   "The National Estuarine Research Reserve System's System-wide Monitoring Program (NERRS SWMP) collected water quality, meteorological, and nutrient data in 26 reserves in the United States and Puerto Rico from January 1, 1995 to August 1, 2011. The NERRS Centralized Data Management Office (CDMO) assembled these data and submitted them to NODC per the \"Memorandum of Understanding between the Office of Ocean and Coastal Resource Management and the National Oceanographic Data Center Concerning the Transmittal of National Estuarine Research Reserve System Water Quality Monitoring Data.\" Water quality parameters include temperature, water depth, salinity, pH, dissolved oxygen, and turbidity. Meteorological parameters include air temperature, wind speed and direction, relative humidity, barometric pressure, rainfall, and photosynthetically active radiation (PAR). Nutrient parameters include concentrations of ammonium, nitrate, nitrite, and ortho-phosphate.",
+   "Navigate directly to the URL for a descriptive web page with download links.",
+   "Navigate directly to the URL for a descriptive web page with download links.",
+   "Navigate directly to the URL for data access and direct download.",
+   "These data are available through the File Transfer Protocol (FTP). You may...",
+   "Main NCEI website providing links to access data and data services.",
+   "Website providing links to access data and data services.",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Main NCEI website providing links to access data and data services.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/abortion-demographics-1995-2012-8f496",
+ "Body": {
+  "Title": [
+   [
+    "Abortion Demographics, 1995-2012"
+   ]
+  ],
+  "Paragraph": [
+   "The number of induced pregnancy terminations reported in Illinois by county (if in excess of 50), by age and marital status.\n   Note: Marital status and age are only for Illinois residents.",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/edfacts-graduates-and-dropouts-201112",
+ "Body": {
+  "Title": [
+   [
+    "EDFacts Graduates and Dropouts, 2011-12"
+   ]
+  ],
+  "Paragraph": [
+   "EDFacts Graduates and Dropouts, 2011-12 (EDFacts GD:2011-12), is one of 17 'topics' identified in the EDFacts documentation (in this database, each 'topic' is entered as a separate study); program data is available since 2005 at . EDFacts GD:2011-12 (ed.gov/about/inits/ed/edfacts) annually collects cross-sectional data from states about student who graduate or receive a certificate of completion from secondary education or students who dropped out of secondary education at the school, LEA, and state levels. EDFacts GD:2011-12 data were collected using the EDFacts Submission System (ESS), a centralized portal and their submission by states is mandatory and required for benefits. Not submitting the required reports by a state constitutes a failure to comply with law and may have consequences for federal funding to the state. Key statistics produced from EDFacts GD:2011-12 are from 6 data groups with information on Regulatory Cohort Graduation Rate (Four, Five, and Six Year)-Graduation Rate; Regulatory Cohort Graduation Rate (Four, Five, and Six Year)-Student Counts; Graduation Rate; Graduates/Completers; Regulatory Cohort Graduation Rate-Flex; and Regulatory Cohort Graduation Rate Student Counts-Flex. For the purposes of this system, data groups are referred to as 'variables', as a result of the structure and format of EDFacts' data.",
+   "EDFacts Graduates and Dropouts 2011-12 data available through ED Data Express",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/cities-towns-and-villages-municipalitiesc5596",
+ "Body": {
+  "Title": [
+   [
+    "Cities, Towns and Villages - Municipalities"
+   ]
+  ],
+  "Paragraph": [
+   "These data were created for planimetric display and tax area analysis.Procedures_Used:The principal method of data entry used coordinate geometry software.Digitizing from paper maps and use of digital planimetric data were supplemental. Conversions, filling of gaps, georeferencing, reconciliations, and reformatting were often necessary to create a coherent database. Boundary updates are occasionally accepted from local GIS departments when the USTC has not received all relevant boundary change information through required channels. Updates have been made in this manner to Sandy, some Cache, Washington, Utah, Wasatch, and Carbon County cities.Revisions: Municipal boundaries are revised as documents are filed with the Lt. Governor's Office.Reviews_Applied_to_Data:Digital sources were visually compared with planimetric data. Digitized data were overlaid with source material and visually compared. Technical errors were also identified and corrected with ArcGIS Software.Notes: This metadata document contains a composite of information for alltiles in the library.Current thru Dec. 30, 2016",
+   "SGID10.BOUNDARIES.Municipalities.xml",
+   "Municipalities_gdb.zip",
+   "Municipalities_shp.zip",
+   "",
+   "",
+   "\u00b7",
+   "",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "Records from State organizations in the GIS Inventory | National States' Geographic Information Council (NSGIC).",
+   "",
+   "Records from State organizations in the GIS Inventory | National States' Geographic Information Council (NSGIC).",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/certified-development-company",
+ "Body": {
+  "Title": [
+   [
+    "Certified Development Company"
+   ]
+  ],
+  "Paragraph": [
+   "Certified Development Companies (CDCs) are nonprofit corporations certified and regulated by the SBA, that work with participating lenders to provide financing to small businesses. There are 270 CDCs nationwide, each covering a specific geographic area.",
+   "",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/meteorological-and-oceanographic-data-collected-from-the-national-data-buoy-center-coastal-mari643c5",
+ "Body": {
+  "Title": [
+   [
+    "Meteorological and oceanographic data collected from the National Data Buoy Center Coastal-Marine Automated Network (C-MAN) and moored (weather) buoys"
+   ]
+  ],
+  "Paragraph": [
+   "The National Data Buoy Center (NDBC) established the Coastal-Marine Automated Network (C-MAN) for the National Weather Service in the early 1980's. NDBC has installed approximately 50 C-MAN stations on lighthouses, at capes and beaches, on near shore islands, and on offshore platforms. NDBC has also deployed over 100 moored (a.k.a., weather) buoys in coastal and offshore waters from the western Atlantic to the Pacific Ocean around Hawaii, and from the Bering Sea to the South Pacific. C-MAN and moored buoy data typically include barometric pressure, wind direction, speed and gust, and air temperature; however, some C-MAN stations are equipped to also measure seawater temperature, water level, waves, and relative humidity. Moored buoys measure wave energy spectra from which NDBC derives significant wave height, dominant wave period, and average wave period. In addition, many moored buoys measure the direction of wave propagation. In collaboration, NDBC and the National Centers for Environmental Information (NCEI) -- formerly the National Oceanographic Data Center (NODC) -- are archiving these data from C-MAN and moored buoys. This collection is part of the collaboration and it contains both NODC F291 and netCDF (version 4) files with data collected from February 1970 through the present day.",
+   "Search for data granules belonging to this collection (a granule is the...",
+   "Search for data by user-specified criteria and optionally download data.",
+   "Navigate directly to the URL for a descriptive web page with download links.",
+   "These data are available through a variety of services via a THREDDS...",
+   "Navigate directly to the URL for data access and direct download.",
+   "These data are available through the File Transfer Protocol (FTP). You may...",
+   "Main NCEI website providing links to access data and data services.",
+   "Website providing links to access data and data services.",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Main NCEI website providing links to access data and data services.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "\"Handbook of Automated Data Quality Control Checks and Procedures, National...",
+   "Institution web page",
+   "Anctil, F., M.A. Donelan, G.Z. Forristal, K.E. Steele, Y. Ouellet....",
+   "Gilhousen, D.B., \"An accuracy statement for meteorological measurements...",
+   "Institution web page",
+   "Gilhousen, D.B., \"A field evaluation of NDBC Moored Buoy Winds\". Journal of...",
+   "Gilhousen, D. B. \"Field evaluation of NDBC directional wave data\"....",
+   "Rex Hervey, \"Are Moored Buoy Winds Too Low in High Seas?\". Western Region...",
+   "K. Steele, Joseph Lau and Yuan-Huang Hsu, \"Theory and application of...",
+   "Wilkerson, John C., and Marshall D. Earle. \"A Study of Differences between...",
+   "Documentation for National Data Buoy Center (NDBC) Coastal-Marine Automated...",
+   "Institution web page",
+   "File format description",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/hydrology-gis-data",
+ "Body": {
+  "Title": [
+   [
+    "Hydrology GIS Data"
+   ]
+  ],
+  "Paragraph": [
+   "Hydrology (Creeks Stream, Shoreline) features exported from the CIty's GIS. See summary description (txt) file for information about intended use, projection, currency, attributes, etc.",
+   "This map data layer represents the hydrology for the City of Bloomington, Indiana. This includes creeks, streams, lake shorelines, open channels, and detention pond boundary line features.",
+   "Preview image in png format of Bloomington Creeks and Streams Hydrology GIS...",
+   "Summary description (metadata) of Bloomington Creeks and Streams Hydrology...",
+   "Bloomington Creeks and Streams Hydrology GIS Data in Esri shapefile format....",
+   "Bloomington Creeks and Streams Hydrology GIS Data in KML format.",
+   "Creeks and Streams Hydrology GIS Data in geojson format",
+   "Creeks and Streams Hydrology GIS Data in DXF format",
+   "Creeks and Streams Hydrology GIS Data in postscript format.",
+   "",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+},
+{
+ "Link": "https://catalog.data.gov/dataset/ncei-standard-product-world-ocean-database-wod",
+ "Body": {
+  "Title": [
+   [
+    "NCEI Standard Product: World Ocean Database (WOD)"
+   ]
+  ],
+  "Paragraph": [
+   "The World Ocean Database (WOD) is the world's largest publicly available uniform format quality controlled ocean profile dataset. Ocean profile data are sets of measurements of an ocean variable vs. depth at a single geographic location within a short (minutes to hours) temporal period in some portion of the water column from the surface to the bottom. To be considered a profile for the WOD, there must be more than a single depth/variable pair. Multiple profiles at the same location from the same set of instruments is an oceanographic cast. Ocean variables in the WOD include temperature, salinity, oxygen, nutrients, tracers, and biological variables such as plankton and chlorophyll. Quality control procedures are documented and performed on each cast and the results are included as flags on each measurement. The WOD contains the data on the originally measured depth levels (observed) and also interpolated to standard depth levels to present a more uniform set of iso-surfaces for oceanographic and climate work.",
+   "The source of the WOD is more than 20,000 separate archived data sets contributed by institutions, project, government agencies, and individual investigators from the United States and around the world. Each data set is available in its original form in the National Centers for Environmental Information data archives. All data sets are converted to the same standard format, checked for duplication within the WOD, and assigned quality flags based on objective tests. Additional subjective flags are set upon calculation of ocean climatological mean fields which make up the World Ocean Atlas (WOA) series.",
+   "The WOD consists of periodic major releases and quarterly updates to those releases. Each major release is associated with a concurrent release of a WOA release, and contains final quality control flags used in the WOA, which includes manual as well as automated steps. Each quarterly update release includes additional historical and recent data and preliminary quality control. The latest major release was WOD 2018 (WOD18), which includes nearly 16 million oceanographic casts, from the second voyage of Captain Cook (1772) to the modern Argo floats (end of 2017).",
+   "The WOD presents data in netCDF ragged array format following the Climate and Forecast (CF) conventions for ease of use mindful of space limitations.",
+   "These data are available through a variety of services via a THREDDS...",
+   "Navigate directly to the URL for data access and direct download.",
+   "These data are available through the File Transfer Protocol (FTP). You may...",
+   "Navigate directly to the URL for a descriptive web page.",
+   "Search for data by user-specified criteria and optionally download data.",
+   "Search for data granules belonging to this collection (a granule is the...",
+   "Navigate directly to the URL for a descriptive web page with download links.",
+   "Main NCEI website providing links to access data and data services.",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Institution web page",
+   "Main NCEI website providing links to access data and data services.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "Overview of the NASA GCMD Keywords.",
+   "",
+   "\u00b7",
+   "",
+   "Harvested from",
+   "",
+   "",
+   "",
+   ""
+  ]
+ }
+}
+]
